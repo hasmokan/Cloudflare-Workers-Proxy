@@ -1,0 +1,5 @@
+{
+	"name": "xproxy",
+	"compatibility_date": "2025-04-12",
+	"main": "./worker.js"
+}
